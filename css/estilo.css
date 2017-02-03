@@ -1,0 +1,18 @@
+#dadosContato, #dadosPessoais, #dadosProfissionais, #formacao{
+	color:#191970;
+	font-size:23px;
+	font-weight: bold;
+	font-family: Verdana;
+}
+body{
+	background: #87CEFA;
+}
+table td{
+	color:#fff;
+}
+
+form input{
+	color:#708090;
+	border-radius:10px;
+	padding-left: 5px;
+}
